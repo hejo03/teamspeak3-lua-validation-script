@@ -10,7 +10,9 @@ Ein Ts³ Lua Script, um eine Validierung in den Channel zu schicken
 3. Kopieren den Ordner in `%APPDATA%\TS3Client\plugins\lua_plugin` oder `YOUR_TEAMSPEAK_PATH/config/plugins/lua_plugin`
 4. Nenne den Ordner in `validation` um.
 5. Starte dein Ts³ neu. Wenn das Script nicht geladen wurde, nutze `/lua load validation` in einem Channel oder den Plugin Einstellungen.
-    
+
+WICHTIG: Falls beim Laden ein Fehler auftritt, starte Teamspeak als Admin.
+
 ## Nutzung
 
 - Rechts-Klick auf den Channel
